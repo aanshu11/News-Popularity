@@ -21,7 +21,10 @@ To build Regression models which will accurately predict the popularity of news 
 
 ## Data Description 
 This dataset summarises a heterogeneous set of features about articles published by Mashable in a period of two years. The goal is to predict the number of shares in social networks (popularity).
+
 The total number of attributes in the dataset is 61 (58 predictive attributes, 2 non-predictive, 1 goal field).
+
+
 Dataset Link - [Dataset](https://www.kaggle.com/competitions/ml-lab-ii-c33/data).
 
 ## Libraries Used 
